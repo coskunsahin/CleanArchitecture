@@ -1,0 +1,17 @@
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Infrastructure\bin\Debug\net7.0\CleanArchitecture.Infrastructure.deps.json
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Infrastructure\bin\Debug\net7.0\CleanArchitecture.Infrastructure.dll
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Infrastructure\bin\Debug\net7.0\CleanArchitecture.Infrastructure.pdb
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Infrastructure\bin\Debug\net7.0\CleanArchitecture.Application.dll
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Infrastructure\bin\Debug\net7.0\CleanArchitecture.Domain.dll
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Infrastructure\bin\Debug\net7.0\CleanArchitecture.Application.pdb
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Infrastructure\bin\Debug\net7.0\CleanArchitecture.Domain.pdb
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Infrastructure\obj\Debug\net7.0\CleanArchitecture.Infrastructure.dll
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Infrastructure\obj\Debug\net7.0\refint\CleanArchitecture.Infrastructure.dll
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Infrastructure\obj\Debug\net7.0\CleanArchitecture.Infrastructure.pdb
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Infrastructure\obj\Debug\net7.0\ref\CleanArchitecture.Infrastructure.dll

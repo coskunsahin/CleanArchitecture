@@ -1,0 +1,15 @@
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Application\bin\Debug\net7.0\CleanArchitecture.Application.deps.json
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Application\bin\Debug\net7.0\CleanArchitecture.Application.dll
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Application\bin\Debug\net7.0\CleanArchitecture.Application.pdb
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Application\bin\Debug\net7.0\CleanArchitecture.Domain.dll
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Application\bin\Debug\net7.0\CleanArchitecture.Domain.pdb
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Application\obj\Debug\net7.0\CleanArchitecture.Application.dll
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Application\obj\Debug\net7.0\refint\CleanArchitecture.Application.dll
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Application\obj\Debug\net7.0\CleanArchitecture.Application.pdb
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Application\obj\Debug\net7.0\ref\CleanArchitecture.Application.dll

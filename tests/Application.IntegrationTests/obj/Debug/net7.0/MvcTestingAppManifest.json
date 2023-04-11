@@ -1,0 +1,6 @@
+{
+  "CleanArchitecture.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\COSKUN\\source\\repos\\CleanArchitecture\\src\\Application",
+  "CleanArchitecture.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\COSKUN\\source\\repos\\CleanArchitecture\\src\\Domain",
+  "CleanArchitecture.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\COSKUN\\source\\repos\\CleanArchitecture\\src\\Infrastructure",
+  "WebUI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\COSKUN\\source\\repos\\CleanArchitecture\\src\\WebUI"
+}

@@ -1,0 +1,12 @@
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Domain\bin\Debug\net7.0\CleanArchitecture.Domain.deps.json
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Domain\bin\Debug\net7.0\CleanArchitecture.Domain.dll
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Domain\bin\Debug\net7.0\CleanArchitecture.Domain.pdb
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Domain\obj\Debug\net7.0\CleanArchitecture.Domain.dll
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Domain\obj\Debug\net7.0\refint\CleanArchitecture.Domain.dll
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Domain\obj\Debug\net7.0\CleanArchitecture.Domain.pdb
+C:\Users\COSKUN\source\repos\CleanArchitecture\src\Domain\obj\Debug\net7.0\ref\CleanArchitecture.Domain.dll
