@@ -1,7 +1,5 @@
 
-## Learn about Clean Architecture
 
-[![Clean Architecture with ASP.NET Core 3.0 • Jason Taylor • GOTO 2019](https://img.youtube.com/vi/dK4Yb6-LxAk/0.jpg)](https://www.youtube.com/watch?v=dK4Yb6-LxAk)
 
 ## Technologies
 
