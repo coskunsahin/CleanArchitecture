@@ -1,8 +1,0 @@
-{
-"SpaProxyServer": {
-"ServerUrl": "https://localhost:44447",
-"LaunchCommand": "npm start",
-"WorkingDirectory": "C:\\Users\\COSKUN\\source\\repos\\CleanArchitecture\\src\\WebUI\\ClientApp\\",
-"MaxTimeoutInSeconds": "120"
-}
-}
