@@ -10,3 +10,15 @@ C:\Users\COSKUN\source\repos\CleanArchitecture\src\Domain\obj\Debug\net7.0\Clean
 C:\Users\COSKUN\source\repos\CleanArchitecture\src\Domain\obj\Debug\net7.0\refint\CleanArchitecture.Domain.dll
 C:\Users\COSKUN\source\repos\CleanArchitecture\src\Domain\obj\Debug\net7.0\CleanArchitecture.Domain.pdb
 C:\Users\COSKUN\source\repos\CleanArchitecture\src\Domain\obj\Debug\net7.0\ref\CleanArchitecture.Domain.dll
+C:\Users\karas\Source\Repos\CleanArchitecture\src\Domain\bin\Debug\net7.0\CleanArchitecture.Domain.deps.json
+C:\Users\karas\Source\Repos\CleanArchitecture\src\Domain\bin\Debug\net7.0\CleanArchitecture.Domain.dll
+C:\Users\karas\Source\Repos\CleanArchitecture\src\Domain\bin\Debug\net7.0\CleanArchitecture.Domain.pdb
+C:\Users\karas\Source\Repos\CleanArchitecture\src\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\karas\Source\Repos\CleanArchitecture\src\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karas\Source\Repos\CleanArchitecture\src\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\karas\Source\Repos\CleanArchitecture\src\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\karas\Source\Repos\CleanArchitecture\src\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\karas\Source\Repos\CleanArchitecture\src\Domain\obj\Debug\net7.0\CleanArchitecture.Domain.dll
+C:\Users\karas\Source\Repos\CleanArchitecture\src\Domain\obj\Debug\net7.0\refint\CleanArchitecture.Domain.dll
+C:\Users\karas\Source\Repos\CleanArchitecture\src\Domain\obj\Debug\net7.0\CleanArchitecture.Domain.pdb
+C:\Users\karas\Source\Repos\CleanArchitecture\src\Domain\obj\Debug\net7.0\ref\CleanArchitecture.Domain.dll

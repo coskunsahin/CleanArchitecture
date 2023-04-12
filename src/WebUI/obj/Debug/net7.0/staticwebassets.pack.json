@@ -1,11 +1,11 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\COSKUN\\source\\repos\\CleanArchitecture\\src\\WebUI\\wwwroot\\api\\specification.json",
+      "Id": "C:\\Users\\karas\\source\\repos\\CleanArchitecture\\src\\WebUI\\wwwroot\\api\\specification.json",
       "PackagePath": "staticwebassets\\api\\specification.json"
     },
     {
-      "Id": "C:\\Users\\COSKUN\\source\\repos\\CleanArchitecture\\src\\WebUI\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\karas\\source\\repos\\CleanArchitecture\\src\\WebUI\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {

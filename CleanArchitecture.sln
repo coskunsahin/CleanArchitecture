@@ -17,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebUI", "src\WebUI\WebUI.cs
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject1", "TestProject1\TestProject1.csproj", "{E4F8C42B-E9B2-4141-8DD9-4AA6F6A89071}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockProject2", "MockProject2\MockProject2.csproj", "{E4B4A4E8-0602-4F53-8509-807DD05A0BE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MockProject2", "MockProject2\MockProject2.csproj", "{E4B4A4E8-0602-4F53-8509-807DD05A0BE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

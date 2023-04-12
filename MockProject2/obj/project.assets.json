@@ -5480,19 +5480,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\COSKUN\\.nuget\\packages\\": {}
+    "C:\\Users\\karas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\COSKUN\\Desktop\\myproject\\MockProject2\\MockProject2.csproj",
+      "projectUniqueName": "C:\\Users\\karas\\Source\\Repos\\CleanArchitecture\\MockProject2\\MockProject2.csproj",
       "projectName": "MockProject2",
-      "projectPath": "C:\\Users\\COSKUN\\Desktop\\myproject\\MockProject2\\MockProject2.csproj",
-      "packagesPath": "C:\\Users\\COSKUN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\COSKUN\\Desktop\\myproject\\MockProject2\\obj\\",
+      "projectPath": "C:\\Users\\karas\\Source\\Repos\\CleanArchitecture\\MockProject2\\MockProject2.csproj",
+      "packagesPath": "C:\\Users\\karas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\karas\\Source\\Repos\\CleanArchitecture\\MockProject2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\COSKUN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\karas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5567,7 +5567,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -5296,19 +5296,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\COSKUN\\.nuget\\packages\\": {}
+    "C:\\Users\\karas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\COSKUN\\Desktop\\myproject\\src\\WebUI\\WebUI.csproj",
+      "projectUniqueName": "C:\\Users\\karas\\source\\repos\\CleanArchitecture\\src\\WebUI\\WebUI.csproj",
       "projectName": "WebUI",
-      "projectPath": "C:\\Users\\COSKUN\\Desktop\\myproject\\src\\WebUI\\WebUI.csproj",
-      "packagesPath": "C:\\Users\\COSKUN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\COSKUN\\Desktop\\myproject\\src\\WebUI\\obj\\",
+      "projectPath": "C:\\Users\\karas\\source\\repos\\CleanArchitecture\\src\\WebUI\\WebUI.csproj",
+      "packagesPath": "C:\\Users\\karas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\karas\\source\\repos\\CleanArchitecture\\src\\WebUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\COSKUN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\karas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5322,11 +5322,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\COSKUN\\Desktop\\myproject\\src\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\COSKUN\\Desktop\\myproject\\src\\Application\\Application.csproj"
+            "C:\\Users\\karas\\source\\repos\\CleanArchitecture\\src\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\karas\\source\\repos\\CleanArchitecture\\src\\Application\\Application.csproj"
             },
-            "C:\\Users\\COSKUN\\Desktop\\myproject\\src\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\COSKUN\\Desktop\\myproject\\src\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\karas\\source\\repos\\CleanArchitecture\\src\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\karas\\source\\repos\\CleanArchitecture\\src\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
@@ -5419,7 +5419,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
